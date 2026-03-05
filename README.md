@@ -26,6 +26,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 
+## 📫 Let’s Connect  
+📧 **kimtranwork7@gmail.com**  
+🔗 [LinkedIn](www.linkedin.com/in/kimtran37)  
+⭐ [GitHub](https://github.com/ktran37)  
+
 <!--
 **ktran37/ktran37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
