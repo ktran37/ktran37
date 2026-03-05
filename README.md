@@ -28,7 +28,7 @@
 
 # 📫 Let’s Connect  
 📧 **kimtranwork7@gmail.com**  
-🔗 [LinkedIn](www.linkedin.com/in/kimtran37)  
+🔗 [LinkedIn](https://linkedin.com/in/kimtran37)  
 ⭐ [GitHub](https://github.com/ktran37)  
 
 <!--
